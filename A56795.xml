@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wicked man's misery, and the poor man's hope and comfort being a sermon upon the parable of Dives and Lazarus : wherein is briefly discovered the miserable estate and condition of those who are guilty of uncharitableness, pride and covetousness : as also, the happy rewards and enjoyments which are prepared for the righteous, who patiently endure afflictions in this world / by the Reverend Dr. Pead ...</title>
+            <author>Pead, Deuel, d. 1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56795</idno>
+            <idno type="STC">Wing P965</idno>
+            <idno type="STC">ESTC R17741</idno>
+            <idno type="EEBO-CITATION">11863441</idno>
+            <idno type="OCLC">ocm 11863441</idno>
+            <idno type="VID">50057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 38:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wicked man's misery, and the poor man's hope and comfort being a sermon upon the parable of Dives and Lazarus : wherein is briefly discovered the miserable estate and condition of those who are guilty of uncharitableness, pride and covetousness : as also, the happy rewards and enjoyments which are prepared for the righteous, who patiently endure afflictions in this world / by the Reverend Dr. Pead ...</title>
+                  <author>Pead, Deuel, d. 1727.</author>
+               </titleStmt>
+               <extent>[1], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by J.B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rich man and Lazarus (Parable) --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:50057:1" rendition="simple:additions"/>
+            <pb facs="tcp:50057:1" rendition="simple:additions"/>
+            <p>Mr. <hi>Pead</hi>'s SERMON, On the <hi>Parable</hi> of <hi>Dives</hi> and <hi>Lazarus.</hi>
+            </p>
+            <p>
+               <hi>Courteous Reader,</hi>
+            </p>
+            <p>If that theſe ſerious and weighty Conſiderations upon the <hi>Parable</hi> of <hi>Dives</hi> and <hi>Lazarus,</hi> ſhould not be accounted worth laying out One Penny, be plea<g ref="char:EOLhyphen"/>ſed to Read them over <hi>Gratis,</hi> keep the Book clean, and Return it in three Hours.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50057:2"/>
+            <p>
+               <hi>The Wicked Man's Miſery.</hi> AND THE Poor Man's Hope and Comfort. BEING A SERMON Upon the Parable of <hi>Dives</hi> and <hi>Lazarus,</hi> Wherein Is briefly diſcovered the Miſerable Eſtate and Con<g ref="char:EOLhyphen"/>dition of thoſe who are guilty of <hi>
+                  <g ref="char:V">Ʋ</g>ncharitableneſs, Pride</hi> and <hi>Covetouſneſs.</hi>
+            </p>
+            <p>AS ALSO, The happy Rewards and Enjoyments which are pre<g ref="char:EOLhyphen"/>pared for the <hi>Righteous,</hi> who patiently endure Afflictions in this World.</p>
+            <q>
+               <bibl>
+                  <hi>Luke XVI. Ver. 19, 20, 21.</hi>
+               </bibl>
+               <p>There was a certain Rich Man, which was cloathed in purple and fine linnen, and fared ſumptuouſly every day. And there was a certain Beggar named <hi>Lazarus,</hi> which laid at his Gate full of Sores: And deſiring to be fed with the crumbs which fell from the Rich Man's Table: moreover the Dogs came and licked his Sores, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 28.6.</hi>
+               </bibl>
+               <p>Better is the poor that walketh in his uprightneſs, then he that is perverſe in his ways, though he be Rich.</p>
+            </q>
+            <p>By the Reverend <hi>Dr. Pead,</hi> Miniſter of St. <hi>James</hi>'s <hi>Clerkenwell, London.</hi>
+            </p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed, and Sold by <hi>J. B.</hi> on <hi>London-Bridge,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:50057:2" rendition="simple:additions"/>
+            <head>Luke XVI. Ver. 19, 20, 21.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Ver. 19.</hi>
+                  </bibl>
+                  <p>There was a certain Rich Man, which was cloath<g ref="char:EOLhyphen"/>ed in purple and fine linnen, and fared ſumptuouſly every day. And there was a certain Beggar named <hi>Lazarus</hi> which was laid at his Gate full of Sores. And deſiring to be fed with the crumbs which fell from the rich mans table: moreover the dogs came and licked his ſores, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THE <hi>Phariſees,</hi> who were preſent at our Savi<g ref="char:EOLhyphen"/>our's <hi>Conference</hi> with the Diſciples, in the for<g ref="char:EOLhyphen"/>mer part of this <hi>Chapter,</hi> were ſo netled at his <hi>pithy and home Diſcourſe,</hi> that they mocked at, and deri<g ref="char:EOLhyphen"/>ded him, <hi>viz.</hi> Becauſe he exclaimed againſt thoſe ſins they were ſtrongly prone to, and wilfully allowed themſelves in; namely, <hi>Covetouſneſs</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ncharita<g ref="char:EOLhyphen"/>bleſs:</hi> He therefore, to convince them of their Folly, and, if poſſible, to reduce them to a more generous and humane frame of Spirit, uſhers in <hi>a very not able and affecting Parable,</hi> adorned with illuſtrious Inſtances, and furniſhed with <hi>memorable Characters: There was,</hi> ſays he, <hi>a certain Noble Man who lived ſoftly, had many Attendants, full Tables, a ſtately Palace, every thing that was great, good, and deſirable in this Life.</hi> And there was a poor indigent Man, called by the Name of <hi>Laza<g ref="char:EOLhyphen"/>rus, deſtitute of a comfortable Habitation, his Belly pinched with hunger, his Spirits languiſhing for want of reviving draughts, his Countenance dejected and fading, and his Fleſh being expoſed to ſtreſs of weather, not having wherewith to defend it from boiſterous Winds and other common Contingencies, broke out into <g ref="char:V">Ʋ</g>lcers and putrify<g ref="char:EOLhyphen"/>ing Sores. This miſer able Creature makes to the rich Man's Seat, and fills his Courts with the doleful cries of a lan<g ref="char:EOLhyphen"/>guiſhing
+<pb n="4" facs="tcp:50057:3"/>Soul; he begs, not for Dainties and ſumptuous Diet, but only for waſte Bread, the refuſe of the Servants; or rather for the Crumbs which uſually fall under the Table at Meals. This was the poor Man's requeſt; that which is ſwept up with the reſt of the litter, and thrown out of Doors to the Dunghil, was all that this diſtreſſed</hi> Lazarus <hi>moſt importunately deſired, to allay the gripes &amp; gnawings which ſharp Hunger had created within him:</hi> But though his Neceſſities were ſo preſſing, his requeſt ſo modeſt and reaſonable, and his Sores ſo angry and painful, (enough to have melted down an obdurate Heart into pity, and to have obliged the meaneſt Perſon to have ſpared from himſelf, and nouriſhed ſuch an afflicted Soul, (yet this avaricious and impregnable Wretch turns a deafned Ear, caſts a diſmal eye upon, and <hi>brow-beats this trem<g ref="char:EOLhyphen"/>bling Beggar,</hi> and baſely denies him that which his me<g ref="char:EOLhyphen"/>nial Servants ſcornfully rejected. The Dogs which ge<g ref="char:EOLhyphen"/>nerally are curriſh and ſnarling, ready to ſnap at, and fly upon ſtrangers, <hi>here change their Nature, and, as it were, expreſs their Pity by doleful howlings;</hi> and as if this was too little, <hi>medendi gratia linguas ſuas accommodant,</hi> run haſtily to him, and endeavour the Cure of his Wounds by licking them with their ſoft and eaſie Tongues: Thus theſe Creatures ſupplied the Neceſſi<g ref="char:EOLhyphen"/>ties of afflicted <hi>Lazarus,</hi> by the inſtinct of Nature, more than their Maſters by all the Tyes and Obliga<g ref="char:EOLhyphen"/>tions of Reaſon.</p>
+            <p>He was bleſt with a <hi>flouriſhing Eſtate,</hi> nothing that the World eſteemed good great, and deſirable, was with<g ref="char:EOLhyphen"/>held from him; ſo that ſince Providence had thus unde<g ref="char:EOLhyphen"/>ſervedly crown'd him with a plentiful Revenue, he could not, unleſs wrapped up in the <hi>Womb of Ingrati<g ref="char:EOLhyphen"/>tude,</hi> have denied a ſmall part of ſo vaſt an Income to this <hi>importunate Beggar;</hi> much leſs have refuſed him that inconſiderable Requeſt of his, namely, <hi>The
+<pb n="5" facs="tcp:50057:3"/>crumbs which fell from his Table;</hi> ſuch Offel which his Dogs blowed upon; But brutiſhly forgetting from whence his Riches ſprang, and greedily fixing his Heart upon them, concludes, it Prodigality and ill Husbandry to part with any thing, tho' it were but a Rag to cover the Fleſh, or a morſel to ſuſtain the Hunger, or a draught to revive the languiſhing Spi<g ref="char:EOLhyphen"/>rits of a Fainting Soul. <hi>Such dangerous Temptations are Riches, if Men are not Guarded with Grace, and well conſider the Deſign of God in beſtowing them.</hi> Hence our Saviour pronounces, That <hi>it is eaſier for a Camel to go through the eye of a Needle, than for a rich Man to enter into the kingdom of Heaven.</hi> Not that Riches are evils in themſelves, but they become ſuch by an imprudent Management, when Men ſuffer their Hearts to be drawn away by them. They are com<g ref="char:EOLhyphen"/>monly Bleſſings; they were ſo to <hi>Abraham, Lot, Iſaac, and Jacob; to Job, David,</hi> and <hi>Joſeph</hi> of <hi>Arimathea:</hi> But ſuch was the ſtupid brutiſhneſs of this Miſer, he contracted ſuch an inordinate love to his Eſtate, that he had quite loſt all Humanity and Compaſſion: His only care was to keep what he had, drowning his Senſes in Gluttony, Drunkenneſs, and all kinds of Senſuality, never once thinking of a Life to come; but <hi>O ſad Cataſtrophe, and diſmal change of things!</hi> Riches, tho' they defend from Hunger, Thirſt, and o<g ref="char:EOLhyphen"/>ther exterior Contingencies, yet they cannot bribe and ſtave off Death, neither inſinuate with the Judge Chriſt Jeſus for a favourable Trial, nor purchaſe a Manſion a<g ref="char:EOLhyphen"/>mongſt the Saints; <hi>he dies and awakes in the midſt of ſcorching flames, and bituminous ſmoaks,</hi> ſcar'd at the gaſtly Spectrums and heideous Noiſes he meets with among Devils and damned Fiends <hi>Lazarus alſo dies, and is carefully conveyed into</hi> Abraham<hi>'s boſom,</hi> a ſafe re<g ref="char:EOLhyphen"/>poſitory, and never to Hunger, Thirſt, and want more.</p>
+            <p>
+               <pb n="6" facs="tcp:50057:4"/>
+The words of the Text are properly divided into <hi>two ſpecial parts.</hi> The <hi>Firſt</hi> is, <hi>A brief Narrative of a Rich Man's general Courſe of Living;</hi> he cloaths him<g ref="char:EOLhyphen"/>ſelf with rich, gay, and coſtly Raiment, and fareth ſumptuouſly every Day. The <hi>Second</hi> Part is, <hi>A deſcrip<g ref="char:EOLhyphen"/>tion of the Calamities that attend Poverty; Lazarus</hi> was full of ſores, almoſt naked and famiſhed, he begs for a little Suſtenance, and that of the meaneſt kind, but was moſt uncharitably denied it. Now theſe two Generals demonſtrate to us;</p>
+            <list>
+               <item>
+                  <hi>Firſt</hi> of all, <hi>That Riches are strong incentives to Luxury and Riotouſneſs;</hi> this Rich Man fared Sumptuouſly every Day, he Entertained himſelf every Day with Luxurious Delights<g ref="char:punc">▪</g>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> That <hi>Riches tempteth to pride, Haughtineſs, and <g ref="char:V">Ʋ</g>ncharitableneſs.</hi> This Elated Miſer thought it beneath his Grandeur, either to look upon, or com<g ref="char:EOLhyphen"/>miſerate afflicted and languiſhing <hi>Lazarus;</hi> and there<g ref="char:EOLhyphen"/>fore chides him by his <hi>Menial Servants,</hi> and ſends him away empty as he came.</item>
+               <item>
+                  <hi>Thirdly,</hi> That <hi>Poverty is a deſpicable State, and renders a Man moſt vile and mean in the Eye of others,</hi> how much ſoever good he hath heretofore done with what God hath bleſſed him with.</item>
+            </list>
+            <p>Theſe are the <hi>three Topicks</hi> which will be the ſub<g ref="char:EOLhyphen"/>jects of my enſuing Diſcourſe; only by the way it may not be improperly inſerted, That by the <hi>Rich Man, and poor Lazarus,</hi> is figured out to us the dif<g ref="char:EOLhyphen"/>ferent ſtate of good and bad Men in this Life: Good Men, for the moſt part, are in mean and low Circum<g ref="char:EOLhyphen"/>ſtances, and of ſmall account, but are rich towards God, precious in his ſight, and have their portion treaſured up with him, according to that of <hi>James,</hi> chap. 2.5. God has choſen the poor of this World
+<pb n="7" facs="tcp:50057:4"/>heirs of the Kingdom of Heaven. <hi>The Wicked generally flouriſh,</hi> the World's affluences tumble upon them, but they have their Portion in this life; hereafter Fire and Brimſtone, and an horrible Tempeſt, ſhall be the Portion of their Cup, <hi>Pſal<g ref="char:punc">▪</g>
+               </hi> 11.6.</p>
+            <p>But to proceed in order. Firſt, <hi>Riches are ſtrong incentives to Luxury and Riotouſneſs.</hi> This noble man fared Sumptuouſly every Day; he obſerved no inter<g ref="char:EOLhyphen"/>vals for Mortification, no time for holy Retirement, for a ſtrict Examination of himſelf, for <hi>Prayer, Repentance,</hi> and other neceſſary Duties: Nor was he ſo Morally uſeful to others as was St. <hi>Agustine,</hi> who divided the Day into ſpecial Portions for needful bu<g ref="char:EOLhyphen"/>ſineſſes; <hi>to reconcile diſturbed Families, and link together enraged Neighbours in the Bonds of Amity, to obſerve and miniſter to the Neceſſities of the Indigent, to inſtruct the Ignorant, counſel the leſs wary;</hi> and ſuch like. No no, this wealthy Wretch lived every Day to himſelf, de<g ref="char:EOLhyphen"/>lighting his Palate with luſcious Viands, and <hi>Falernia</hi> Liquors, loading his Stomach with Morſels, without any regard to Moderation; had no thoughts of, nor any earning bowels, after thoſe who wanted, and would be glad of the meaneſt bit at his Table. After this Luxurious manner did he ſpend every Day; <hi>ſuch ſtrong and irreſiſtible temptations are Riches, when Men are without Grace, and conſider not the wiſe and holy pur<g ref="char:EOLhyphen"/>poſe of God in beſtowing them;</hi> for tho' they are the pro<g ref="char:EOLhyphen"/>per and peculiar Gifts of Heaven, and were promiſed to, and beſtowed upon our Forefathers, as illuſtrious inſtances of the Divine favour, yet they are not to be proſtituted ſolely to our ſelves, that is, to nouriſh and maintain our Luſts, for then they change their na<g ref="char:EOLhyphen"/>ture, and prove the manifeſt ruin of Soul and Body. Upon which account, it may not be improper to in<g ref="char:EOLhyphen"/>ſert this <hi>Memorandum,</hi> That they who are bleſs'd with
+<pb n="8" facs="tcp:50057:5"/>Plenty and Store, ought to be very importunate with God, that he would <hi>moderate, and rectify their Appe<g ref="char:EOLhyphen"/>tites, keep and reſtrain their Hearts, curb and limit their Deſires, that they may not be taken up, and charmed with their Wealth, as to forget the Concernments of their Souls, and ſuffer them to live out a long Eternity with the Damn<g ref="char:EOLhyphen"/>ed Crew, in the unhappy Reſidences of Miſery.</hi> There<g ref="char:EOLhyphen"/>fore our Saviour, ever and anon, is giving a ſpecial charge to Rich Men, that they be very cautious and wary, leſt they ſhould be Inchanted, and betrayed by Superfluities, which like the <hi>Syrens,</hi> whom the Poets ſpeak of, as it were, lie in wait for Men, and ſeduce them by their pleaſing, and almoſt irreſiſtible Charms. It was an excellent Prayer of <hi>Agurs,</hi> Prov. 30.8, 9. <hi>O Lord,</hi> ſays he, <hi>Give me neither poverty nor riches; feed me with jood convenient for me: Leſt I be full, and deny thee, and ſay, Who is the Lord? or lest I be poor and ſteal, and take the name of my God in vain.</hi>
+            </p>
+            <p>Having weighed in an even Ballance both a proſpe<g ref="char:EOLhyphen"/>rous and an adverſe ſtate, and conſidering what in<g ref="char:EOLhyphen"/>conveniencies the extream of their condition would bring men into; the one tempting them to Luxury, Drunkenneſs, and Gluttony, the other to Theft, Ly<g ref="char:EOLhyphen"/>ing and Perjury; Proſtrates himſelf before God, with rectified deſires, a moderate appetite, and an humble heart, and beſeeches him to bleſs him with a condition neither too wealthy, nor too deſpicable: to the end he might not be prompted to ſuch enormous ſins. <hi>When Riches are enjoyed without a juſt ſenſe and fear of God, they lead men into manifold extravagances;</hi> the ap<g ref="char:EOLhyphen"/>petite which once perhaps was corrective, and as ſcan<g ref="char:EOLhyphen"/>ty as a mean competency, now enlarges it ſelf, and grows as comprehenſive in its wiſhes, as the Eſtate abounds; Now the Heart is fixed upon its deſired Treaſure; and no leſs taken with all the pleaſures
+<pb n="9" facs="tcp:50057:5"/>and ſeemingly delights it can procure and purchaſe, to violate a divine Commandment; when obedience there<g ref="char:EOLhyphen"/>to ſtands in competition with Money, is thought no ſin, but rather a ſpecial inſtance of policy and pru<g ref="char:EOLhyphen"/>dence. In a word, and to borrow the expreſſion, <hi>The love of Money ſpends all its deſires upon it ſelf, to purchaſe nothing but unſatisfying inſtruments of Exchange, or Su<g ref="char:EOLhyphen"/>pernumerary Proviſions; and ends in emptineſs of Spirit.</hi>
+            </p>
+            <p>This Rich Man in the Text ſpent all his thoughts, how he might advance to the height of an Epicures Life; what ſhall I eat? or what ſhall I drink? or what ſhall I put on? the World ſeemed too little to anſwer his greedy deſires; too empty to furniſh his Table with ſuch varieties his extended Appetite moſt paſſionately craved after. His Eſtate was large, and his Mind an<g ref="char:EOLhyphen"/>ſwerable; nay, rather more diffuſive: So that though he was plentifully accommodated with the <hi>ſublimeſt rarities,</hi> yet ſtill he ſeemed unſatisfied; but ſure this is not the end of our Creation, God has not deſigned us meerly for theſe lower entertainments. Our Spirits are capacious Beings, of eternal duration, and muſt live in another World for ever, after this is conſu<g ref="char:EOLhyphen"/>med. Where then is thy policy? <hi>O Dives? Where is the ſenſe of thy Voluptuous faring?</hi> Thou muſt not al<g ref="char:EOLhyphen"/>ways abide here; thy Riches, Honours, and Luſcious Delicates, all muſt periſh, and thou <hi>Stript into a naked Spirit,</hi> and anſwer for all thy Tranſactions at the Tre<g ref="char:EOLhyphen"/>mendous Bar of Juſtice, where neither thy Wealth nor Grandure can procure thy <hi>favour with Judge</hi> or <hi>Jury,</hi> the meaneſt Peaſants ſhall then be as great as thou, and find as much receptance at that <hi>Grand Aſſizes.</hi> But to proceed to the ſecond general Head, namely,</p>
+            <p>
+               <hi>Secondly,</hi> That as Riches are ſtrong Incentives to Luxury and Riotouſneſs, ſo to <hi>Pride; Haughtineſs and <g ref="char:V">Ʋ</g>ncharitableneſs.</hi> This wealthy Miſer thought it too
+<pb n="10" facs="tcp:50057:6"/>great a Reflection upon his Dignity and Perſon, to look upon, or commiſerate afflicted <hi>Lazarus;</hi> and therefore he imperiouſly charged his Servants to for<g ref="char:EOLhyphen"/>bid him begging, and to ſend him away empty as he came.</p>
+            <p>He conſidered that ſuch an Eſtate as he was poſſeſ<g ref="char:EOLhyphen"/>ſed of, called for <hi>Lofty looks, a ſtarch'd carriage, big words, and full commands, a viſible ſeparation of himſelf from his inferiours;</hi> and that which enhanſed his Eſtate, ſpeaking to others by the mouth of his Servants, be<g ref="char:EOLhyphen"/>ing difficult of acceſs, and carrying it in all things with Majeſty, Pomp, and an imperious Deportment. It had therefore been a viſible ſlur upon his Perſon, to have ſeemed afflicted with the complaints of poor <hi>Lazarus,</hi> to have ſtepped from his ſeat and viewed this <hi>Beggar's Condition,</hi> and commanded ſupplies for him. Should he, who was advanced to the very top of ho<g ref="char:EOLhyphen"/>nour and magnificence; he, who had attendance al<g ref="char:EOLhyphen"/>ways at hand, whoſe grandeur was noiſed abroad, and became the <hi>wonder and admiration of the Neighbouring Villages;</hi> he whoſe cloathing was Royal Purple, whoſe Linnen the Richeſt that <hi>Acajah</hi> could furniſh him with; he whoſe Preſence was the Terrour of his Houſhold, and the aſtoniſhment of the Vulgar; Should ſuch a one, thus <hi>incircled to the rareſt accommodation's of Fortune,</hi> ſo far demean himſelf to ſtoop to a Perſon fallen into the depth of Diſgrace, attended with all the Inſtances of Contempt and Deriſion, as was deject<g ref="char:EOLhyphen"/>ed <hi>Lazarus?</hi> No, no, let him away from my Gate, and get his Belly full at ſome Cottage or other. Thus Riches are apt to make us forget our ſelves, they in<g ref="char:EOLhyphen"/>toxicate our underſtanding, and Prompt us to over<g ref="char:EOLhyphen"/>rate our ſelves; they lift us up above our Sphere, and lead us to contemn and ſlight thoſe who are not in ſuch fortunate circumſtances as our ſelves. Com<g ref="char:EOLhyphen"/>mon
+<pb n="11" facs="tcp:50057:6"/>Experience gives us too many, and palpable In<g ref="char:EOLhyphen"/>ſtances of this kind; ſome who through <hi>meaneſt of Pa<g ref="char:EOLhyphen"/>rentage,</hi> or other unhappy Contingencies, have lived in an Ordinary Capacity, and while thus bereaved of Fortunes Gifts, poſſibly were Humble, Meek, and Condeſcending, forward to aſſiſt when uſeful, and apt to be affected with the Calamities, and preſſing neceſſi<g ref="char:EOLhyphen"/>ties of others; but when the tide has changed either their Induſtry bleſt to a plentiful Etate, or they ſtar<g ref="char:EOLhyphen"/>ted into a wealthy Condition, by the <hi>laſt Will and Teſtament of a deceaſed Friend, or familiar Acquaintance,</hi> their diſpoſition has changed too Now their late Tranſlation ſpeaks greater things; their Converſation muſt be with thoſe who are of the ſame Rank and Qua<g ref="char:EOLhyphen"/>lity with themſelves. Now their wonted Apparel, which was plain and ſuitable to their Condition, muſt be of another Mode and Figure, ſet off with <hi>curious Trimmings,</hi> and <hi>faſhionable Appurtinances;</hi> their Car<g ref="char:EOLhyphen"/>riage more Airy and affected, their Countenances more Elevated and Stately; their Speech more Majeſtick and Uncooth, <hi>former Acquaintance muſt be buried in Oblivion,</hi> the poor not worthy of their notice, or at leaſt have nothing to ſpare for them; their Pride and Grandeur muſt be maintained; but what an unfor<g ref="char:EOLhyphen"/>tunate caſe is this, <hi>that men ſhould forget from whence they are,</hi> and value themſelves ſo much upon ſuch un<g ref="char:EOLhyphen"/>conſtant and periſhing things as Riches are? what art thou the better for thy wealth? wherein doſt thou exceed thy meaneſt Brother? Reckon not upon Wealth, for God is no reſpecter of Perſons. A Beggar, it may be, is more in God's favour than thou, and ſhall be admitted within the vail to Joy and feaſt himſelf for ever with thoſe rare, unſeen repaſts which Divine Wiſdom has contrived for thoſe who expreſs their <hi>Love and Loyalty to him,</hi> whilſt thou ſhalt be dragged
+<pb n="12" facs="tcp:50057:7"/>away by the common Accuſer, and his Angels, into the Repoſitories of ſhame and ſorrow, there to ſuffer the utmoſt heats of Sin-revenging God.</p>
+            <p>But beſides the ſtupid folly of being puffed up in con<g ref="char:EOLhyphen"/>ceit, becauſe thy <hi>Lot is fallen into a fair Heritage;</hi> Daily experiences almoſt evinces us, that riches are Tran<g ref="char:EOLhyphen"/>ſient Pleaſures, like unto the <hi>flower of the field, which to day is blown, gay, and beautiful,</hi> and to morrow faded, and fit for nought but to be helped together with the graſs: Thou calleſt thy ſelf to day a ſubſtan<g ref="char:EOLhyphen"/>tial, wealthy perſon; Houſes in abundance, Land large and fruitful, Bags full, and running over, but by the morrow perhaps thou mayeſt be weeping to ſee thy Tenements laid in Aſhes, thy Money ſnatch'd away by the ſilent crafty Thief, or perhaps, thou weeping, ſigh<g ref="char:EOLhyphen"/>ing, and <hi>roaring in Hell;</hi> thou knoweſt not but the Sentence is gone forth from God; <hi>Thou fool, this night ſhall thy Soul be required of thee, and then whoſe ſhall thoſe things be which thou hast provided?</hi> But if it ſo falls out, that thou ſhouldſt out-live thy Happineſs, ſee thy ſelf ſtripp'd of all thy <hi>Pomp and Riches,</hi> thou mayeſt juſtly expect to meet with hard uſage; for, (beſides the many Reflections which would certainly be caſt upon thee, that this ſad Cataſtrophe, and diſmal change of things, is a juſt Judgment upon thee for thy <hi>Pride, Arrogance, Self-conceitedneſs, and <g ref="char:V">Ʋ</g>ncharitableneſs,</hi> du<g ref="char:EOLhyphen"/>ring thy Proſperity,) Men would be ſo far from pit<g ref="char:EOLhyphen"/>tying thy downfall, and conſidering thy neceſſities, that rather they would reproach thee for thy Poverty, and laugh at thy Calamities. <hi>The World is apt to remember faults,</hi> and never at a better time, than when Men are fallen into decay, and ſtand in ſpecial need of common help, then the generality lay their heads together, and <hi>recount as many failings,</hi> which may harden them againſt a charitable diſpoſition; but enough for the ſecond
+<pb n="13" facs="tcp:50057:7"/>general thing, namely, That <hi>Riches are ſtrong Temp<g ref="char:EOLhyphen"/>tations to Pride, Haughtineſs, and <g ref="char:V">Ʋ</g>ncharitableneſs.</hi> The other remaining Topick, namely, That <hi>Poverty is a moſt deſpicable state,</hi> and renders a Man moſt vile and mean in the Eye of the World; drawn from the miſe<g ref="char:EOLhyphen"/>rable Condition of <hi>Lazarus,</hi> and the baſe uſage ſhewn him in his Low Circumſtances by the Rich Man, ſhall be my buſineſs the next opportunity. I now pro<g ref="char:EOLhyphen"/>ceed to make ſame ſpecial Uſe of what hath been ſaid at this time, and ſo conclude.</p>
+            <p>And the <hi>firſt <g ref="char:V">Ʋ</g>ſe</hi> is; That if Riches are ſuch Lures and ſtrong Temptations, it ſhould ſerve for an Ad<g ref="char:EOLhyphen"/>monition to thoſe who are bleſſed with them, <hi>that do not ſet too great a value upon them, nor hug them with too much eagerneſs and deſire;</hi> that they labour to make their love of Wealth ſubſervient to their Love of Heaven, and heavenly things, that they learn to admire and adore their Creator, who has caſt their Lot in a <hi>fair Heritage,</hi> and rightly underſtand his wiſe and holy purpoſe, in crowning them with Proſ<g ref="char:EOLhyphen"/>perity, that Riches are not given to ſpend them up<g ref="char:EOLhyphen"/>on our Luſts, to <hi>live ſumptuouſly every Day,</hi> to trifle our time in eaſe, Idleneſs, and ſecurity; this is the abuſing of Riches, No, no, they are given to more excellent ends; <hi>To encourage us in our Duty, to give our Children good Education; to help the Fatherleſs and Widow, the Op<g ref="char:EOLhyphen"/>preſſed and Stranger;</hi> it is ſad to conſider, how Laviſh and Prodigal many are, whom fate has bleſt with plen<g ref="char:EOLhyphen"/>ty and ſtore, laying out vaſt ſums in <hi>beautifying build<g ref="char:EOLhyphen"/>ings, dainty fair and well furniſhed Wardrobes,</hi> and the like, while the poor periſh at their Gates: <hi>Dives</hi> was ſo taken up with his various and extravagant Diver<g ref="char:EOLhyphen"/>ſions, that he could ſpare no time, or rather would not, to hear the doleful Complaints of diſtreſſed <hi>La<g ref="char:EOLhyphen"/>zarus,</hi> or to ſee, conſider, and relieve his neceſſities.
+<pb n="14" facs="tcp:50057:8"/>
+               <hi>He was cloathed in Purple and fine Linnen;</hi> his belly filled with the beſt of Proviſions, and therefore con<g ref="char:EOLhyphen"/>ſidered not what it was to be <hi>Hungry, Thirſty, Naked, and Friendleſs,</hi> he was not tormented with that ſharp Thorn which ſo miſerably afflicted <hi>Lazarus,</hi> that he cryed, Oh! fill my craving Stomach with the <hi>crumbs that fall under thy Table,</hi> with thoſe ſuperfluous morſels which are thy Dogs Food; I deſire not that which thou feedeſt upon; nothing elſe but the worſt bit thy <hi>Servants leave;</hi> this is my requeſt, this I ſhould be glad of, and without ſome ſpeedy relief, <hi>I ſhall faint and drop, and periſh at thy Gates.</hi> This diſmal Story no way affected this Inexorable Wretch, but he rather chid him for his importunity, than Pitied him for his poverty. One would have thought that ſuch expreſſions as theſe were enough to have pierced the moſt obdurate heart, and to have melted it down into Compaſſion; but ſuch is the unhappy proof of an heart enamoured with, and inſeparably fixed upon Riches. Let it therefore be a Caveat to thoſe who are favour'd with the <hi>ſmiles of fortune,</hi> that they do not reckon too much upon their proſperous condition, nor be too much in love with it.</p>
+            <p>
+               <hi>Secondly,</hi> The <hi>ſecond <g ref="char:V">Ʋ</g>ſe</hi> is, That ſince Riches are apt to ſeduce and betray men, tempt them to forget God and themſelves; <hi>let thoſe whoſe fortunes are mean in the World, learn to be content in their State.</hi> They have the more leiſure to look after the concernments of their Souls, and to provide for their <hi>long Journey into Eternity;</hi> they are free from abundance of Cares, Fears, and Troubles; they are not perplexed with con<g ref="char:EOLhyphen"/>triving how to purchaſe ſuch an Eſtate, not over<g ref="char:EOLhyphen"/>whelmed with the fear of loſing it, but have many fair opportunities of preparing themſelves for the <hi>em<g ref="char:EOLhyphen"/>braces of the Father of Spirits.</hi> Therefore Chriſtian, grudge not that thy Portion in this Life is ſo narrow,
+<pb n="15" facs="tcp:50057:8"/>if thou art brought to a morſel of bread, to a draught of water; yet even this is enough to bear thy <hi>charges to Heaven:</hi> But if thou art not ſo fortunate to be Ma<g ref="char:EOLhyphen"/>ſter of this meaner Diet, thy Life will be only the ſhorter; and poſſibly God <hi>keeps thee ſhort here,</hi> that he may plentifully reward thee hereafter; <hi>Heaven is ſuffi<g ref="char:EOLhyphen"/>cient to make thee ſatisfaction for all thy ſufferings;</hi> in God's preſence there is <hi>fulneſs of Joy, and at his right hand are pleaſures for evermore.</hi> To be received into that <hi>capacious world where are all inſtances of Joy,</hi> all the in<g ref="char:EOLhyphen"/>gredients of felicity, to have all thy faculties enlarg<g ref="char:EOLhyphen"/>ed; to the end they may reliſh thoſe hidden Com<g ref="char:EOLhyphen"/>forts to know and underſtand the <hi>methods of Providence,</hi> and to be made acquainted with the <hi>Arcana imperii,</hi> the ſecrets of Heaven.</p>
+            <p>
+               <hi>Death is the Lot of us all,</hi> he invaded the Rich Man's Palace, as well as the poor Man's Cottage; he ſtorms the <hi>Princes</hi> Court, as well as the Peaſants mea<g ref="char:EOLhyphen"/>ner Habitation. High and Low, all muſt ſubmit, when this <hi>grim Serjeant</hi> makes a demand. Neither <hi>VVealth nor Honour, neither beauty, nor VViſdom, nor any ſecular regard,</hi> can plead againſt Death, to priviledge a Man from the Grave. Which conſideration ſhould inſinuate with Men, to be <hi>leſs in love with this world, and more thoughtful of that time when they muſt go into a fixed ſtate, either of eternal happineſs, or miſery.</hi> But ſuch was the ſtupid folly of <hi>Dives,</hi> that to dye was the leaſt of his care, and the leaſt in his mind. His chief<g ref="char:EOLhyphen"/>eſt ſtudy was, what he ſhould <hi>eat, drink, and put on;</hi> what ſort of pleaſures would beſt ſuit with, and ac<g ref="char:EOLhyphen"/>commodate his Senſes. In fine, his happineſs was fix<g ref="char:EOLhyphen"/>ed in theſe periſhing enjoyments, and ſo fondly ima<g ref="char:EOLhyphen"/>gined his condition immutable; But behold <hi>a woful change of things!</hi> In the midſt of carnal ſecurity, Death ſteps in, an unwelcome Gueſt, a frightful Spe<g ref="char:EOLhyphen"/>ctrum,
+<pb n="16" facs="tcp:50057:9"/>and irreſiſtably hauls him from all his darling repaſts, and <hi>crouds him into the Region of damned Spirits.</hi> Now he that was cloathed with Purple and fine Linnen, is inveloped in devouring and unquenchable flames; he that <hi>fared ſumptuouſly and deliciouſly every day,</hi> is con<g ref="char:EOLhyphen"/>fined to a loathſome dungeon, and doomed to ſuffer thoſe intollerable preparations, and to enhance his Miſery, <hi>Lazarus, whom he uncharitably denied the crumbs which fell from his Table,</hi> and without any reluctancy permitted to faint, languiſh, and dye at his Gate, <hi>is at a diſtance preſented to his view lying in</hi> Abraham's <hi>Bo<g ref="char:EOLhyphen"/>ſom,</hi> crowned with Glory, and encircled with the rades of eternal bliſs. To <hi>Abraham</hi> he addreſſes himſelf, <hi>Pity my hard fate, conſider my woful condition, ſee how the flames ſcorch and torment me, ſee how my tongue is parch'd with heat; I am ſo miſerably afflicted, that I cannot ex<g ref="char:EOLhyphen"/>preſs my ſelf; I pray thee therefore to ſend</hi> Lazarus <hi>with a drop of water to abate the Anguiſh, and allay the throb<g ref="char:EOLhyphen"/>bings of my enflamed Tongue.</hi> So great and vehement are the plagues of Hell, that the damned Spirits there cry continually for help and ſuccour, but are not piti<g ref="char:EOLhyphen"/>able Objects, having withſtood the frequent tenders of Grace and Mercy.</p>
+            <p>To conclude, let us all endeavour to anſwer the end of God in whatſoever condition we are; if we be Rich, <hi>let us be Humble, Meek, and Modeſt, affable, Courteous, and Charitable;</hi> if Poor, <hi>Content, Thankful, and Holy.</hi> Now to the mighty Governour of the World, who loveth <hi>Mankind,</hi> and giveth to all Men according to Infinite Wiſdom, be given the Kingdom, the Power, and the Glory, for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50057:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
